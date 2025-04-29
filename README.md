@@ -1,4 +1,4 @@
-# -retimPlanlama
+# UretimPlanlama
 
 # Çok Makineli İş Atama Problemi Çözücüsü
 
